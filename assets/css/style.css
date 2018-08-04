@@ -181,6 +181,8 @@ p {
 
 .projects {
     margin: 30px;
+    width: 250px;
+    height: 200px;
 }
 
 .footer-portfolio {
